@@ -1,6 +1,6 @@
 # ENIGMA Effect size and GLM script
 *Dmitry Isaev, Boris Gutman, Neda Jahanshad, Sinead Kelly*
-
+ 
 The script is intended at batch processing of multiple linear models, and the results can be carried on to meta-analysis stage. 
 Each working group may configure its own set of linear models, depending on imaging metrics and covariates data it has.
 Imaging metrics could be: **average ROI values (FA, MD, etc.)** or **shape vertexwise values**.
